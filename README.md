@@ -60,9 +60,6 @@ Proyek ini mengotomatiskan kasus uji yang didefinisikan dalam `testcase.md`.
 - **TCL-05**: Login gagal dengan kata sandi kosong.
 - **TCL-06**: Login gagal dengan nama pengguna dan kata sandi kosong.
 
-### Fungsionalitas Inventaris (`InventoryTest.java`)
-- `[TODO]` Skenario untuk menambah produk ke keranjang. Saat ini file masih dalam bentuk kerangka.
-
 ---
 
 ## 🚀 Cara Menjalankan Tes
